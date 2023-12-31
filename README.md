@@ -1,4 +1,4 @@
-# Website Optimization using Next.js
+# Next.js Website Optimization
 
 # Technologies and Frameworks
 
@@ -20,4 +20,26 @@
 
 Follow these steps to install and setup the project:
 
-# jsm-optimization_next
+1. Clone the repository to your local machine using the following command:
+
+```bash
+git clone
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd
+```
+
+3. Install the required dependencies. The project requires Next.js, React, React DOM, Sanity, Styled Components, Tailwind CSS, TypeScript, and various other dependencies. You can install these using npm or yarn. Here is an example using npm:
+
+```bash
+npm install
+```
+
+4. Run the repo
+
+```bash
+npm run dev
+```
