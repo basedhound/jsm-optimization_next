@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://nextjs-filter-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Optimized Next.js Search/Filter</h3>
 </div>
@@ -20,23 +20,23 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Next.js** is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
+- [**Next.js**](https://nextjs.org/docs) is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Sanity.io** is a headless CMS that offers real-time collaborative editing, structured content, and a highly customizable platform. It allows developers to build scalable, content-driven applications by providing a flexible and robust backend for managing and delivering content.
+- [**Sanity.io**](https://www.sanity.io/docs) is a headless CMS that offers real-time collaborative editing, structured content, and a highly customizable platform. It allows developers to build scalable, content-driven applications by providing a flexible and robust backend for managing and delivering content.
 
-- **Node.js** is a JavaScript runtime built on Chrome's V8 engine that enables server-side scripting. It allows developers to build scalable network applications using JavaScript, leveraging its non-blocking, event-driven architecture for high performance.
+- [**Node.js**](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) is a JavaScript runtime built on Chrome's V8 engine that enables server-side scripting. It allows developers to build scalable network applications using JavaScript, leveraging its non-blocking, event-driven architecture for high performance.
 
-- **clsx** is a tiny utility for constructing className strings conditionally. It simplifies the process of dynamically assigning multiple class names based on various conditions, helping developers manage CSS class names efficiently.
+- [**clsx**](https://www.npmjs.com/package/clsx) is a tiny utility for constructing className strings conditionally. It simplifies the process of dynamically assigning multiple class names based on various conditions, helping developers manage CSS class names efficiently.
 
-- **Query-string** is a library for parsing and stringifying URL query strings. It provides a simple and efficient way to handle URL parameters, making it easier for developers to manage and manipulate query strings in web applications.
+- [**Query-string**](https://www.npmjs.com/package/query-string) is a library for parsing and stringifying URL query strings. It provides a simple and efficient way to handle URL parameters, making it easier for developers to manage and manipulate query strings in web applications.
 
-- **Tailwind** is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
 
-- **Tailwind-merge** is a utility that intelligently merges Tailwind CSS class names. It helps resolve conflicts and ensures that the final set of class names applied to an element is valid and effective, improving the management of Tailwind CSS classes in complex scenarios.
+- [**Tailwind-merge**](https://www.npmjs.com/package/tailwind-merge) is a utility that intelligently merges Tailwind CSS class names. It helps resolve conflicts and ensures that the final set of class names applied to an element is valid and effective, improving the management of Tailwind CSS classes in complex scenarios.
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
